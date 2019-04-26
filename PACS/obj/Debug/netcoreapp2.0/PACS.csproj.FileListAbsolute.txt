@@ -1,0 +1,22 @@
+C:\Users\parth\Desktop\Assignment 01\PACS\PACS\bin\Debug\netcoreapp2.0\PACS.deps.json
+C:\Users\parth\Desktop\Assignment 01\PACS\PACS\bin\Debug\netcoreapp2.0\PACS.runtimeconfig.json
+C:\Users\parth\Desktop\Assignment 01\PACS\PACS\bin\Debug\netcoreapp2.0\PACS.runtimeconfig.dev.json
+C:\Users\parth\Desktop\Assignment 01\PACS\PACS\bin\Debug\netcoreapp2.0\PACS.dll
+C:\Users\parth\Desktop\Assignment 01\PACS\PACS\bin\Debug\netcoreapp2.0\PACS.pdb
+C:\Users\parth\Desktop\Assignment 01\PACS\PACS\obj\Debug\netcoreapp2.0\PACS.csprojAssemblyReference.cache
+C:\Users\parth\Desktop\Assignment 01\PACS\PACS\obj\Debug\netcoreapp2.0\PACS.csproj.CoreCompileInputs.cache
+C:\Users\parth\Desktop\Assignment 01\PACS\PACS\obj\Debug\netcoreapp2.0\PACS.AssemblyInfoInputs.cache
+C:\Users\parth\Desktop\Assignment 01\PACS\PACS\obj\Debug\netcoreapp2.0\PACS.AssemblyInfo.cs
+C:\Users\parth\Desktop\Assignment 01\PACS\PACS\obj\Debug\netcoreapp2.0\PACS.dll
+C:\Users\parth\Desktop\Assignment 01\PACS\PACS\obj\Debug\netcoreapp2.0\PACS.pdb
+F:\centennial college\Sem 3\COMP 229 Web App\Assignment 01\PACS\PACS\bin\Debug\netcoreapp2.0\PACS.deps.json
+F:\centennial college\Sem 3\COMP 229 Web App\Assignment 01\PACS\PACS\bin\Debug\netcoreapp2.0\PACS.runtimeconfig.json
+F:\centennial college\Sem 3\COMP 229 Web App\Assignment 01\PACS\PACS\bin\Debug\netcoreapp2.0\PACS.runtimeconfig.dev.json
+F:\centennial college\Sem 3\COMP 229 Web App\Assignment 01\PACS\PACS\bin\Debug\netcoreapp2.0\PACS.dll
+F:\centennial college\Sem 3\COMP 229 Web App\Assignment 01\PACS\PACS\bin\Debug\netcoreapp2.0\PACS.pdb
+F:\centennial college\Sem 3\COMP 229 Web App\Assignment 01\PACS\PACS\obj\Debug\netcoreapp2.0\PACS.csprojAssemblyReference.cache
+F:\centennial college\Sem 3\COMP 229 Web App\Assignment 01\PACS\PACS\obj\Debug\netcoreapp2.0\PACS.csproj.CoreCompileInputs.cache
+F:\centennial college\Sem 3\COMP 229 Web App\Assignment 01\PACS\PACS\obj\Debug\netcoreapp2.0\PACS.AssemblyInfoInputs.cache
+F:\centennial college\Sem 3\COMP 229 Web App\Assignment 01\PACS\PACS\obj\Debug\netcoreapp2.0\PACS.AssemblyInfo.cs
+F:\centennial college\Sem 3\COMP 229 Web App\Assignment 01\PACS\PACS\obj\Debug\netcoreapp2.0\PACS.dll
+F:\centennial college\Sem 3\COMP 229 Web App\Assignment 01\PACS\PACS\obj\Debug\netcoreapp2.0\PACS.pdb

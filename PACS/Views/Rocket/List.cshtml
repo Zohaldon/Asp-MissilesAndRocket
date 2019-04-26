@@ -1,0 +1,16 @@
+﻿@{
+    ViewData["Title"] = "List";
+}
+
+<h2>@Model.CurrentCategory</h2>
+
+<h2>Here is the list of the rockets</h2>
+
+
+@{
+    foreach (Rocket rocket in Model.Rockets)
+    {
+        @Html.Partial("RocketsSummary", rocket);
+    }
+}
+
